@@ -1,0 +1,10 @@
+name: RandTP
+version: 1.0.0
+author: sl4v
+description: Allows you to teleport to random locations around the minecraft server
+main: me.sl4v.randtp.RandTP
+commands:
+  randtp:
+    description: Teleport to a random location
+    usage: /<command>
+    aliases: [randomtp, randomteleport, randteleport]
